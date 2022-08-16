@@ -1,9 +1,7 @@
-#radius and area of circle
 r=1.1
-area=3.14*r*r
-print (area)
+area=3.14*1.1*1.1
+print(area) 
 
 
-Output:
-3.7994
+Output: 3.7994000000000008
 
